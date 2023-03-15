@@ -10,7 +10,7 @@ namespace Exercicio_CalculaInvestimentoLgPrazo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando o Projeto 12 - Encadeando laços FOR: \r\n");
+            Console.WriteLine("Executando o Projeto 11 - Encadeando laços FOR: \r\n");
 
             double valorInvestido = 1000;
             double fatorRendimento = 1.0036;
